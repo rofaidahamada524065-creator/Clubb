@@ -1,0 +1,6 @@
+@Clubb_HostAddress = http://localhost:5104
+
+GET {{Clubb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
